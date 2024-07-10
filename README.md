@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/Vinteum-Software/integration-crm-hubspot-contacts/blob/main/project_logo.png"><img src="https://github.com/Vinteum-Software/integration-crm-hubspot-contacts/blob/main/project_logo.png" alt="CRM Hubspot" width="80"></a>
-  <a href="https://github.com/gabrielpfs/integration_developer_platform_github/assets/88781022/31e6c3fb-88fb-4254-a267-eb2f10db0595"><img src="https://github.com/gabrielpfs/integration_developer_platform_github/assets/88781022/31e6c3fb-88fb-4254-a267-eb2f10db0595" alt="CRM Hubspot" width="80"></a>
+  <a href="https://github.com/WealthInsight/integration_developer_platform_github/assets/88781022/8384790d-9cbe-425d-ad07-5cd8d9e8474e"><img src="https://github.com/WealthInsight/integration_developer_platform_github/assets/88781022/8384790d-9cbe-425d-ad07-5cd8d9e8474e" alt="github" width="80"></a>
   <br>
   Integration Github | Developer Platform
   <br>
